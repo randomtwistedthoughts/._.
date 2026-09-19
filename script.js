@@ -1,4 +1,4 @@
-const TOTAL = 109;
+const TOTAL = 6;
 let current = 0;
 const img = document.getElementById("frame");
 const counter = document.getElementById("counter");
